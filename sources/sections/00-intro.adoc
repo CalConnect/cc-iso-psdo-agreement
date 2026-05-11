@@ -12,12 +12,14 @@ This document formalizes the process of collaboration of
 enable the collaborative development of standards.
 
 The resulting standards are to be jointly published by
-{collaboration-party} and CalConnect as "`ISO/CalConnect Standards`",
+{collaboration-party} and CalConnect as
+"`{collaboration-party}/CalConnect Standards`",
 according to processes described in this document.
 
 
 === Background
 
+////
 One of the objectives of ISO is to facilitate the international
 exchange of goods and services through the development of International
 Standards.
@@ -30,13 +32,20 @@ use of resources available for standardization activities.
 CalConnect aims to facilitate interoperability of collaborative
 technologies with open standards, in particular on calendar, scheduling,
 and contacts; its standards are globally recognized and widely applied.
+////
 
+CalConnect and {collaboration-party} support a policy of inclusiveness and
+encourages cooperation with other standardizing bodies,
+in order to ensure effective and efficient use of resources
+available for standardization activities.
 
 === Intention
 
-ISO and CalConnect agree to the principles of cooperation described in
-this document, in all fields subject to approval by the ISO TMB and the
-CalConnect TC PUBLISH and TCC.
+{collaboration-party} and CalConnect agree to the principles of cooperation described in
+this document, in all fields subject to approval by the governing bodies of
+{collaboration-party} and CalConnect TC PUBLISH and TCC
+
+// ISO TMB
 
 
 === Process cooperation
