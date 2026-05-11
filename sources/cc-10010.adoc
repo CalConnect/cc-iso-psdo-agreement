@@ -1,5 +1,5 @@
-= ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
-:title: ISO/CalConnect Partner Standards Development Organization (PSDO) Cooperation Agreement
+= CalConnect Partner Standards Cooperation Agreement
+:title: CalConnect Partner Standards Cooperation Agreement
 :docnumber: 10010
 :copyright-year: 2019
 :language: en
@@ -11,7 +11,7 @@
 :published-date: 2019-01-18
 :language: en
 :technical-committee: PUBLISH
-:collaboration-party: ISO
+:collaboration-party: Collaboration Party
 :draft:
 :toc:
 :stem:

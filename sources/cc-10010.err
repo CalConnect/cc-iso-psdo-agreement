@@ -1,0 +1,29 @@
+sources/cc-10010.err errors
+
+
+== Style
+
+(XML Line 000068): Hanging paragraph in clause
+(XML Line 000241): Symbols and Abbreviated Terms can only contain a definition list
+(XML Line 000258): Hanging paragraph in clause
+(XML Line 000322): Hanging paragraph in clause
+(XML Line 000362): Hanging paragraph in clause
+(XML Line 000404): Hanging paragraph in clause
+(XML Line 000423): Hanging paragraph in clause
+(XML Line 000459): Hanging paragraph in clause
+(XML Line 000545): Hanging paragraph in clause
+(XML Line 000566): Hanging paragraph in clause
+(XML Line 000582): Hanging paragraph in clause
+(XML Line 000623): Hanging paragraph in clause
+(XML Line 000686): Hanging paragraph in clause
+(XML Line 000726): Hanging paragraph in clause
+(XML Line 000742): Hanging paragraph in clause
+(XML Line 000779): Hanging paragraph in clause
+(XML Line 000813): Hanging paragraph in clause
+(XML Line 000844): Hanging paragraph in clause
+(XML Line 000878): Hanging paragraph in clause
+
+
+== Syntax
+
+(XML Line 000177:41): element "eref" missing required attributes "citeas" and "type"
