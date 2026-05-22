@@ -1,5 +1,0 @@
-# .metanorma/channels.yml — cc-iso-psdo-agreement
-
-channels:
-  - name: public/standards
-    description: "CalConnect documents from cc-iso-psdo-agreement"
