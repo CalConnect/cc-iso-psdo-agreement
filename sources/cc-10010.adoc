@@ -25,6 +25,12 @@
 :sectnums!:
 
 include::sections/00-foreword.adoc[]
+
+[abstract]
+== Abstract
+
+This document describes the agreement between CalConnect and ISO for the cooperation of standards development and publication. It provides the principles and necessary processes for collaborative cases between the parties: co-development of a standardization work item proposed by either party, and submission of a CalConnect document to ISO for its standardization process.
+
 include::sections/00-intro.adoc[]
 
 :sectnums:
